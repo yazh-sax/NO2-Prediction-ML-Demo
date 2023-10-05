@@ -1,2 +1,6 @@
-# NO2-Prediction-ML-Demo
-Demonstration of basic feed forward neural network architecture to predict Nitrogen Dioxide levels based on the levels of other, less harmful pollutants.  
+# NO2 Prediction ML Demo
+
+Using a neural network with a LeakyRELU activiation function to predict nitrogen dioxide levels using levels of other pollutants. 
+
+Libraries Used: Pytorch, Pandas, Scikit Learn
+Data: https://www.kaggle.com/datasets/deepaksirohiwal/delhi-air-quality 
